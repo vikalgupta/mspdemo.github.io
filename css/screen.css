@@ -192,27 +192,27 @@ p {
 
 /* line 14, ../sass/classes/_bgcol.scss */
 .bgcol1 {
-  background-color: #E63129;
+  background-color: #DB5151; /*red: E63129*/
 }
 
 /* line 18, ../sass/classes/_bgcol.scss */
 .bgcol2 {
-  background-color: #01AB9B;
+  background-color: #0072C5; /*blue*/
 }
 
 /* line 22, ../sass/classes/_bgcol.scss */
 .bgcol3 {
-  background-color: #E3DAD6;
+  background-color: #E3DAD6; /*light grey*/
 }
 
 /* line 26, ../sass/classes/_bgcol.scss */
 .bgcol4 {
-  background-color: #674839;
+  background-color: #B7B5B5; /*light grey*/
 }
 
 /* line 30, ../sass/classes/_bgcol.scss */
 .bgcol5 {
-  background-color: #1e3062;
+  background-color: #1e3062; /*dark blue*/
 }
 
 /**
@@ -237,6 +237,7 @@ p {
 .cols-4 {
   box-sizing: border-box;
   display: block;
+
 }
 @media (min-width: 520px) {
   /* line 7, ../sass/classes/_columns.scss */
@@ -432,6 +433,7 @@ h6 {
   -moz-border-radius: 8px;
   -webkit-border-radius: 8px;
   border-radius: 8px;
+  font-size: 25px
 }
 /* line 79, ../sass/lib/_mixins.scss */
 .trusted:focus, .trusted:hover {
