@@ -192,12 +192,12 @@ p {
 
 /* line 14, ../sass/classes/_bgcol.scss */
 .bgcol1 {
-  background-color: #DB5151; /*red*/
+  background-color: #DB5151; /*soft red*/
 }
 
 /* line 18, ../sass/classes/_bgcol.scss */
 .bgcol2 {
-  background-color: #000000/*#0072C5; /*blue*/
+  background-color: #000000 /*black*/
 }
 
 /* line 22, ../sass/classes/_bgcol.scss */
