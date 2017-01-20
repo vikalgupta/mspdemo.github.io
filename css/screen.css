@@ -192,12 +192,12 @@ p {
 
 /* line 14, ../sass/classes/_bgcol.scss */
 .bgcol1 {
-  background-color: #DB5151; /*red: E63129*/
+  background-color: #DB5151; /*red*/
 }
 
 /* line 18, ../sass/classes/_bgcol.scss */
 .bgcol2 {
-  background-color: #0072C5; /*blue*/
+  background-color: #000000/*#0072C5; /*blue*/
 }
 
 /* line 22, ../sass/classes/_bgcol.scss */
@@ -214,6 +214,19 @@ p {
 .bgcol5 {
   background-color: #1e3062; /*dark blue*/
 }
+
+/*
+Basic list of hex colors:
+#1e3062: dark blue
+#B7B5B5: light grey
+#0072C5: soft blue
+#DB5151: soft red
+#000000: black
+#ffffff: white
+
+Google 'hex color picker'
+
+*/
 
 /**
  * @file
